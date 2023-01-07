@@ -94,9 +94,11 @@ main {
 
 .section-title {
 
-    margin-bottom: 30px;
+    margin-bottom: 50px;
     font-weight: 700;
     font-size: 35px;
+    text-align: center;
+    margin-top: 130px;
 }
 
 .section-description {
@@ -121,3 +123,35 @@ main {
     font-weight: 700;
     font-size: 20px;
 }
+
+/* what i do styles */
+.what i do {
+    margin-top: 130px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    color: #181818;
+    margin-top: 30px;
+    margin-bottom: 20px;
+ 
+}
+
+.skill-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+}
+.skill{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    padding: 30px;
+}
+/* resume styles */
